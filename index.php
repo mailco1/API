@@ -1,3 +1,4 @@
-<?php 
-echo("hello Nguyễn Văn Trúc");
+<?php
+header("Location: code.html");
+exit;
 ?>
